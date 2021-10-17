@@ -1,0 +1,25 @@
+google-chrome/
+cmus/
+Code/
+configstore/
+dconf/
+dunst/
+EOS-greeter.conf
+gtk-2.0/
+gtk-3.0/
+htop/
+mimeapps.list
+MongoDB Compass/
+neofetch/
+nitrogen/
+pulse/
+rofi.old/
+rofi/
+spotify/
+systemd/
+termite/
+Thunar/
+user-dirs.dirs
+user-dirs.locale
+xfce4/
+wal/
